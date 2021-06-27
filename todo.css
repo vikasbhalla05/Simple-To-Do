@@ -70,6 +70,8 @@ li{
     border-radius: 5px;
     margin-bottom: 10px;
     background: #4eb9cd;
+    margin-left: 37%;
+    min-width: 86% !important;
 }
 
 li:hover{
