@@ -71,3 +71,24 @@ li{
     margin-bottom: 10px;
     background: #4eb9cd;
 }
+
+li:hover{
+    background: #76cfe0;
+}
+
+li > button{
+    background: none;
+    border: none;
+    float: right;
+    color: #025f70;
+    font-weight: 800;
+}
+
+.done{
+    background: #51df70 !important;
+    color: #00891e;
+}
+
+.delete{
+    display: none;
+}
